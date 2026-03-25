@@ -1,0 +1,9 @@
+{
+  "name": "Pet-follow-prototype",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$path": "src/ReplicatedStorage"
+    }
+  }
+}
